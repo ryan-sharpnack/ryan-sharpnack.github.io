@@ -1,2 +1,11 @@
-# ryan-sharpnack.github.io
-Professional website for Ryan Sharpnack Healthcare Practice Automation - HIPAA-compliant automation solutions for Orange County medical and dental practices
+# Healthcare Practice Automation Website
+
+Professional website for HIPAA-compliant automation solutions serving Orange County medical and dental practices.
+
+## Services
+- Practice workflow automation
+- Patient communication systems  
+- HIPAA-compliant integrations
+- Healthcare-specific consulting
+
+Contact: (657) 455-2894
