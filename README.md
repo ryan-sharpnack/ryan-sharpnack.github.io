@@ -58,11 +58,7 @@ Decreased client intake processing by 55%, improved case communication efficienc
 - **Phone:** (657) 455-2894
 - **Email:** sharpsmbadvisory@outlook.com
 - **Service Area:** Orange County, California
-- **LinkedIn:** [ryan-sharpnack](https://www.linkedin.com/in/ryan-sharpnack)
-
----
-
-**Ready to automate your professional practice?** [Schedule a free consultation](https://ryan-sharpnack.github.io#contact) to discuss your automation needs.
+- **LinkedIn:** [ryansharpnack](https://www.linkedin.com/in/ryansharpnack)
 
 ---
 
