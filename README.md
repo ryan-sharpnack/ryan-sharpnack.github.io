@@ -46,7 +46,7 @@ The website features:
 - **Phone:** (657) 455-2894
 - **Email:** sharpsmbadvisory@outlook.com
 - **Service Area:** Orange County, California
-- **LinkedIn:** [ryan-sharpnack](https://www.linkedin.com/in/ryan-sharpnack)
+- **LinkedIn:** [ryansharpnack](https://www.linkedin.com/in/ryansharpnack)
 
 ## Repository Structure
 
