@@ -317,12 +317,25 @@
         
         /* Mobile Responsive */
         @media (max-width: 768px) {
+            .hero {
+                padding: 60px 0;
+            }
+            
             .hero h1 {
                 font-size: 2em;
             }
             
+            .hero .title {
+                font-size: 1.1em;
+            }
+            
             .hero .tagline {
                 font-size: 1em;
+                padding: 0 10px;
+            }
+            
+            .hero .phone {
+                font-size: 1.1em;
             }
             
             .service-packages,
@@ -333,6 +346,142 @@
             
             .container {
                 padding: 0 15px;
+            }
+            
+            .services,
+            .case-studies,
+            .about,
+            .contact {
+                padding: 40px 0;
+            }
+            
+            .services h2,
+            .case-studies h2,
+            .about h2,
+            .contact h2 {
+                font-size: 1.8em;
+            }
+            
+            .package {
+                padding: 20px;
+                margin-bottom: 20px;
+            }
+            
+            .package .price {
+                font-size: 1.6em;
+            }
+            
+            .case {
+                padding: 20px;
+            }
+            
+            .contact-content {
+                gap: 30px;
+            }
+            
+            .contact-form {
+                padding: 20px;
+            }
+            
+            .form-group {
+                margin-bottom: 15px;
+            }
+            
+            .form-group input,
+            .form-group textarea {
+                padding: 12px;
+                font-size: 16px;
+            }
+            
+            .submit-btn {
+                padding: 15px 20px;
+                font-size: 1em;
+            }
+        }
+        
+        /* Tablet Responsive */
+        @media (max-width: 1024px) and (min-width: 769px) {
+            .hero {
+                padding: 70px 0;
+            }
+            
+            .hero h1 {
+                font-size: 2.2em;
+            }
+            
+            .hero .tagline {
+                font-size: 1.05em;
+            }
+            
+            .service-packages {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .cases {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            
+            .contact-content {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+            
+            .package {
+                padding: 25px;
+            }
+            
+            .case {
+                padding: 25px;
+            }
+        }
+        
+        /* Small Mobile Responsive */
+        @media (max-width: 480px) {
+            .hero {
+                padding: 50px 0;
+            }
+            
+            .hero h1 {
+                font-size: 1.8em;
+            }
+            
+            .hero .title {
+                font-size: 1em;
+            }
+            
+            .hero .tagline {
+                font-size: 0.9em;
+                padding: 0 15px;
+            }
+            
+            .cta-button {
+                padding: 12px 25px;
+                font-size: 1em;
+            }
+            
+            .container {
+                padding: 0 10px;
+            }
+            
+            .package {
+                padding: 15px;
+            }
+            
+            .package .price {
+                font-size: 1.4em;
+            }
+            
+            .case {
+                padding: 15px;
+            }
+            
+            .contact-form {
+                padding: 15px;
+            }
+            
+            .form-group input,
+            .form-group textarea {
+                padding: 10px;
             }
         }
     </style>
@@ -494,7 +643,7 @@
                 
                 <div class="contact-form">
                     <h3>Schedule Your Free Consultation</h3>
-                    <form action="https://formspree.io/f/xvgwgkyd" method="POST" target="_blank>
+                    <form action="https://formspree.io/f/xvgwgkyd" method="POST" target="_blank">
                         <div class="form-group">
                             <label for="name">Business Name / Your Name *</label>
                             <input type="text" id="name" name="name" required>
